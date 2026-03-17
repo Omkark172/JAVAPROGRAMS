@@ -5,7 +5,7 @@ public class max_3nos {
             Scanner s = new Scanner(System.in);
             int a , b ,c;
 
-            System.out.println("Enter two numbers");
+            System.out.println("Enter three numbers");
             a = s.nextInt();
             b = s.nextInt();
             c = s.nextInt();
